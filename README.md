@@ -6,7 +6,7 @@ Pilosopi sederhananya seperti ini:
 - Dengan data ini kita kumpulkan semua produk dropship dari toko yang memenuhi kriteria.  
 - Produk ini kemudian kita masukkan ke daftar Google Merchant sehingga menjadi database.  
 - Dari database ini kita ambil produk yang mempunyai hasil penjualan terbaik di AdWords.  
-- Kemudian kita tampilkan produknya di situs kita Google Site spt [Shop Chetabahana](http://shop.chetabahana.com/).
+- Dengan [Sites API](https://developers.google.com/google-apps/sites/docs/developers_guide) kita tampilkan produknya di [Google Site](http://sites.google.com/) spt [Shop Chetabahana](http://shop.chetabahana.com/).
 
 
 
