@@ -3,7 +3,7 @@ Tampilan semi dinamis dari produk unggulan secara periodik di Shop Chetabahana t
 
 Pilosopi sederhananya seperti ini:  
 - Jalankan Google Shopping di AdWords untuk dapat data produk yang di rekomendasikan.  
-- Dengan data ini kita kumpulkan semua produk dropship dari toko yang memenuhi kriteria.  
+- Dengan data ini kita kumpulkan semua [produk dropship](https://chetabahana.com/product?p=1&c=0&l=60) dari toko yang memenuhi kriteria.  
 - Produk ini kemudian kita masukkan ke daftar Google Merchant sehingga menjadi database.  
 - Dari database ini kita ambil produk yang mempunyai hasil penjualan terbaik di AdWords.  
 - Dengan [Google Sites API](https://developers.google.com/google-apps/sites/docs/developers_guide) kita tampilkan produknya di [Google Site](http://sites.google.com/) spt [Shop Chetabahana](http://shop.chetabahana.com/).
