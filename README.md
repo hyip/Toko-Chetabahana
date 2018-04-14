@@ -10,7 +10,7 @@ Tampilan semi dinamis dari produk unggulan secara periodik di Shop Chetabahana t
 
 ## Manfaat yang bisa diperoleh:
 - Tidak memerlukan Hosting karena Google Site bisa diperoleh secara gratis
-- Tidak memerlukan database karena bisa akses data yg sudah dimasukkan dan tersedia secara online di Google Merchant
+- Tidak memerlukan database karena bisa akses data yg sudah dimasukkan di Google Merchant
 - Bisa optimasi SEO untuk Situs Toko di [Google Site](http://sites.google.com/) via Google Webmaster untuk berkompetisi di Google Search
 
 
