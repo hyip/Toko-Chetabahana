@@ -12,7 +12,7 @@ Tampilan semi dinamis dari produk unggulan secara periodik di Shop Chetabahana t
 - Tidak memerlukan Hosting karena Google Site bisa diperoleh secara gratis
 - Tidak memerlukan database karena bisa akses data yg sudah dimasukkan di Google Merchant
 - Bisa menampilkan produk secara dinamis di Google Site sesuai trend dan rekomendasi dari Google
-- Bisa optimasi SEO untuk Situs Toko di [Google Site](http://sites.google.com/) via Google Webmaster untuk berkompetisi di Google Search
+- Bisa optimasi SEO untuk produk unggulan dari [Situs Toko](https://chetabahana.com/) via [Google Site](http://shop.chetabahana.com/) untuk berkompetisi di Google Search
 
 
 
