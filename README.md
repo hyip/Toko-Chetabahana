@@ -13,6 +13,7 @@ Tampilan semi dinamis dari produk unggulan secara periodik di Shop Chetabahana t
 - Bisa menampilkan produk secara dinamis di Google Site sesuai trend dan rekomendasi dari Google
 - Tidak memerlukan database karena bisa akses dan pakai data yg sudah dimasukkan di Google Merchant
 - Bisa optimasi SEO untuk produk unggulan dari [Situs Toko](https://chetabahana.com/) via [Google Site](http://shop.chetabahana.com/) untuk berkompetisi di Google Search
+- Memperoleh data terkini untuk update setelan AdWords secara otomatis guna meningkatkan sales return yang paling optimal.
 
 
 
