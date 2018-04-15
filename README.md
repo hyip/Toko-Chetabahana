@@ -29,7 +29,7 @@ Penempatan Repositori (Repo) untuk setiap proses diatur sbb:
 - Repo Proses ke-1: [MarketLeader/Google-Merchants-API](https://github.com/MarketLeader/Google-Merchants-API) Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Merchants-API/wiki)
 - Repo Proses ke-2: [MarketLeader/Google-Sites-API](https://github.com/MarketLeader/Google-Sites-API). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)
 - Repo Proses ke-3: [MarketLeader/Google-AdWords-API](https://github.com/MarketLeader/Google-AdWords-API]). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-AdWords-API/wiki])
-- Repo Proses ke-4: [MarketLeader/Shop-Chetabahana]](https://github.com/MarketLeader/Shop-Chetabahana) (yg sedang anda baca). Dokumentasinya [_disini_](https://github.com/MarketLeader/Shop-Chetabahana/wiki)
+- Repo Proses ke-4: [MarketLeader/Shop-Chetabahana](https://github.com/MarketLeader/Shop-Chetabahana) (yg sedang anda baca). Dokumentasinya [_disini_](https://github.com/MarketLeader/Shop-Chetabahana/wiki)
 
 ## Pustaka
 Disarankan untuk disimak sebelum melangkah lebih jauh:
