@@ -26,9 +26,9 @@ Struktur dari prosesnya bisa dijalankan secara terpisah sbb:
 
 ## Repositori
 Penempatan Repositori (Repo) untuk setiap proses diatur sbb:
-- Repo Proses ke-1: [google-shopping-api]() Dokumentasinya [_disini_]()
-- Repo Proses ke-2: [google-sites-api](). Dokumentasinya [_disini_]()
-- Repo Proses ke-3: [oogle-adwords-api](). Dokumentasinya [_disini_]()
+- Repo Proses ke-1: [MarketLeader/Google-Merchants-API](https://github.com/MarketLeader/Google-Merchants-API) Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Merchants-API/wiki)
+- Repo Proses ke-2: [MarketLeader/Google-Sites-API](https://github.com/MarketLeader/Google-Sites-API). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)
+- Repo Proses ke-3: [MarketLeader/Google-AdWords-API](https://github.com/MarketLeader/Google-AdWords-API]). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-AdWords-API/wiki])
 - Repo Proses ke-4: yg sedang anda baca. Dokumentasinya [_disini_](https://github.com/MarketLeader/Shop-Chetabahana/wiki)
 
 ## Pustaka
