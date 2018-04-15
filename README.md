@@ -18,5 +18,7 @@ Manfaat yang bisa diperoleh adalah sbb:
 - Meraih data terkini untuk [_update setelan AdWords secara otomatis_](https://developers.google.com/adwords/api/docs/guides/start) guna peroleh sales return yang paling optimal.
 
 ## Struktur
-
+Struktur dari prosesnya bisa dijalankan secara terpisah sbb:
+- Proses ke-1: Mulai dari akses ke saran produk, menyaring barang sampai input menjadi daftar produk.
+- Proses ke-2: Mulai dari akses ke daftar produk, menyaring barang sampai input untuk menampilkan produk.
 
