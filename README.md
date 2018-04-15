@@ -2,7 +2,7 @@
 Selamat datang di [**Toko Chetabahana**](https://github.com/MarketLeader/Toko-Chetabahana).
 
 Yang Anda baca ini adalah sesi terakhir publikasi dari 
-[**Tim Chetabahana**](https://github.com/chetabahana) diperuntukkan bagi Anda yang sudah ikuti sesi sebelumnya yaitu: [_Cara Buka Toko Online WinMarket dan Optimasi Internal_](https://chetabahana.blogspot.com/) serta [_Optimasi Eksternal dan Shop SEO_](https://chetabahana.wordpress.com/) .
+[**Tim Chetabahana**](https://github.com/chetabahana) diperuntukkan bagi yang sudah ikuti sesi sebelumnya yaitu: [_Cara Buka Toko Online WinMarket dan Optimasi Internal_](https://chetabahana.blogspot.com/) serta [_Cara Optimasi Eksternal Toko dengan Shop SEO_](https://chetabahana.wordpress.com/) .
 
 Di sesi ini kami akan mempublikasikan cara untuk meningkatkan penjualan dari [Toko Online Chetabahana](https://chetabahana.com/) dengan teknik memilah dan memampilkan produk unggulan secara dinamis di [_Situs Google Toko Chetabahana_](http://toko.chetabahana.com/) dari [Google Site](http://sites.google.com/).
 
@@ -39,8 +39,8 @@ Penempatan Repositori (Repo) untuk setiap proses diatur sbb:
 ## Pustaka
 Disarankan untuk disimak sebelum melangkah lebih jauh:
 - [Cara Buka Toko Online WinMarket dan Optimasi Internal](https://chetabahana.blogspot.com/)
-- [Optimasi Eksternal dan Shop SEO](https://chetabahana.wordpress.com/)
-- [Channel Youtube](https://www.youtube.com/channel/UCZlPku9beXzdROCknYLuRNg?view_as=subscriber)
+- [Cara Optimasi Eksternal Toko dengan Shop SEO](https://chetabahana.wordpress.com/)
+- [Channel Youtube e-Commerce](https://www.youtube.com/channel/UCZlPku9beXzdROCknYLuRNg?view_as=subscriber)
 - [e-Books](https://www.scribd.com/user/401259110/Chetabahana)
 
 ## Penutup
