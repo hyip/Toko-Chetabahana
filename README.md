@@ -4,7 +4,7 @@ Selamat datang di [**Shop Chetabahana**](https://github.com/MarketLeader/Shop-Ch
 Yang Anda baca ini adalah sesi terakhir dari publikasi dari 
 [**Tim Chetabahana**](https://github.com/chetabahana) yang diperuntukkan bagi Anda yang sudah mengikuti sesi sebelumnya yaitu [Cara buka Toko dan Optimasi internal](https://chetabahana.blogspot.com/) dan [Optimasi eksternal / SEO](https://chetabahana.wordpress.com/) .
 
-Di sesi ini kami akan mempublikasikan cara untuk meningkatkan penjualan dari [Toko Online Chetabahana](https://chetabahana.com/)dengan teknik memilah dan memampilkan produk unggulan secara dinamis di [Situs Toko Chetabahana](http://shop.chetabahana.com/) dari [Google Site](http://sites.google.com/).
+Di sesi ini kami akan mempublikasikan cara untuk meningkatkan penjualan dari [Toko Online Chetabahana](https://chetabahana.com/) dengan teknik memilah dan memampilkan produk unggulan secara dinamis di [Situs Toko Chetabahana](http://shop.chetabahana.com/) dari [Google Site](http://sites.google.com/).
 
 ## Pilosopi
 Pilosopi sederhananya bisa dijabarkan sesuai urutan berikut ini:
