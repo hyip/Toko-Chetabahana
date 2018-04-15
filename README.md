@@ -4,7 +4,7 @@ Selamat datang di [**Toko Chetabahana**](https://github.com/MarketLeader/Toko-Ch
 Yang Anda baca ini adalah sesi terakhir publikasi dari 
 [**Tim Chetabahana**](https://github.com/chetabahana) diperuntukkan bagi Anda yang sudah ikuti sesi sebelumnya yaitu: [_Cara Buka Toko Online WinMarket dan Optimasi Internal_](https://chetabahana.blogspot.com/) serta [_Optimasi Eksternal dan Shop SEO_](https://chetabahana.wordpress.com/) .
 
-Di sesi ini kami akan mempublikasikan cara untuk meningkatkan penjualan dari [Toko Online Chetabahana](https://chetabahana.com/) dengan teknik memilah dan memampilkan produk unggulan secara dinamis di [Situs Toko Chetabahana](http://toko.chetabahana.com/) dari [Google Site](http://sites.google.com/).
+Di sesi ini kami akan mempublikasikan cara untuk meningkatkan penjualan dari [Toko Online Chetabahana](https://chetabahana.com/) dengan teknik memilah dan memampilkan produk unggulan secara dinamis di [Situs Google Toko Chetabahana](http://toko.chetabahana.com/) dari [Google Site](http://sites.google.com/).
 
 ## Pilosopi
 Pilosopi sederhananya bisa dijabarkan sesuai urutan berikut ini:
@@ -12,7 +12,7 @@ Pilosopi sederhananya bisa dijabarkan sesuai urutan berikut ini:
 - Kemudian kita saring [produk dropship](https://chetabahana.com/product?p=1&c=0&l=60) dari [_daftar barang toko_](https://chetabahana.com/sitemap.xml) yang memenuhi kriteria via [Google AppEngine](https://cloud.google.com/appengine/).  
 - Hasilnya kita masukkan via [Google Content API](https://developers.google.com/shopping-content/v2/quickstart) ke [Google Merchant](https://www.google.com/retail/solutions/merchant-center/) sehingga [_tersimpan menjadi database_](https://support.google.com/merchants/answer/7052112).  
 - Dari database ini kita ambil produk yang mempunyai hasil dan [_peluang terbaik_](https://support.google.com/merchants/answer/7228489?hl=id) via [Google AdWords API](https://developers.google.com/adwords/api/docs/guides/start).  
-- Selanjutnya dengan [Google Sites API](https://developers.google.com/google-apps/sites/docs/developers_guide) kita tampilkan produknya di [Google Site](http://sites.google.com/) seperti [Toko Chetabahana](http://toko.chetabahana.com/).
+- Selanjutnya dengan [Google Sites API](https://developers.google.com/google-apps/sites/docs/developers_guide) kita tampilkan produknya di [Google Site](http://sites.google.com/) seperti [Situs Google Toko Chetabahana](http://toko.chetabahana.com/).
 
 ## Manfaat
 Manfaat yang bisa diperoleh adalah sbb:
