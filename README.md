@@ -2,7 +2,7 @@
 Selamat datang di [**Toko Chetabahana**](https://github.com/MarketLeader/Toko-Chetabahana).
 
 Yang Anda baca ini adalah sesi terakhir publikasi dari 
-[**Tim Chetabahana**](https://github.com/chetabahana) diperuntukkan bagi Anda yang sudah ikuti sesi sebelumnya yaitu [_Cara Buka Toko Online WinMarket dan Optimasi Internal_](https://chetabahana.blogspot.com/) dan [_Optimasi Eksternal dan Shop SEO_](https://chetabahana.wordpress.com/) .
+[**Tim Chetabahana**](https://github.com/chetabahana) diperuntukkan bagi Anda yang sudah ikuti sesi sebelumnya yaitu: [_Cara Buka Toko Online WinMarket dan Optimasi Internal_](https://chetabahana.blogspot.com/) serta [_Optimasi Eksternal dan Shop SEO_](https://chetabahana.wordpress.com/) .
 
 Di sesi ini kami akan mempublikasikan cara untuk meningkatkan penjualan dari [Toko Online Chetabahana](https://chetabahana.com/) dengan teknik memilah dan memampilkan produk unggulan secara dinamis di [Situs Toko Chetabahana](http://toko.chetabahana.com/) dari [Google Site](http://sites.google.com/).
 
