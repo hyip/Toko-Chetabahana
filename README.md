@@ -25,11 +25,11 @@ Struktur dari prosesnya bisa dijalankan secara terpisah sbb:
 - Proses ke-4: Mengatur penjadwalan dan lalu-lintas data dari semua proses.
 
 ## Repositori
-Penempatan Repositori untuk setiap proses diatur sbb:
-- Proses ke-1: Content dan Dokumentasi
-- Proses ke-2: Content dan Dokumentasi
-- Proses ke-3: Content dan Dokumentasi
-- Proses ke-4: Content dan Dokumentasi
+Penempatan Repositori (Repo) untuk setiap proses diatur sbb:
+- Repo Proses ke-1: [google-shopping-api]() Dokumentasinya [_disini_]()
+- Repo Proses ke-2: [google-sites-api](). Dokumentasinya [_disini_]()
+- Repo Proses ke-3: [oogle-adwords-api](). Dokumentasinya [_disini_]()
+- Repo Proses ke-4: yg sedang anda baca. Dokumentasinya [_disini_](https://github.com/MarketLeader/Shop-Chetabahana/wiki)
 
 ## Pustaka
 Disarankan untuk disimak sebelum melangkah lebih jauh:
