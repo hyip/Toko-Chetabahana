@@ -9,7 +9,7 @@ Tampilan semi dinamis dari produk unggulan secara periodik di Shop Chetabahana t
 - Dengan [Google Sites API](https://developers.google.com/google-apps/sites/docs/developers_guide) kita tampilkan produknya di [Google Site](http://sites.google.com/) spt [Shop Chetabahana](http://shop.chetabahana.com/).
 
 ## Manfaat yang bisa diperoleh:
-- Tidak perlukan hosting berbayar karena Google Site adalah Free dan [AppEngine](https://cloud.google.com/appengine/) bisa dijalankan secara gratis
+- Tidak perlukan hosting berbayar karena [Google Site](http://sites.google.com/) adalah Free dan [AppEngine](https://cloud.google.com/appengine/) bisa [dijalankan secara gratis](https://stackoverflow.com/questions/18101642/appengine-limit-the-number-of-instances/26654430#26654430).
 - Bisa menampilkan produk secara dinamis di Google Site sesuai trend dan rekomendasi dari Google
 - Tidak memerlukan database karena bisa akses dan pakai data yg sudah dimasukkan di Google Merchant
 - Bisa optimasi SEO untuk produk unggulan dari [Situs Toko](https://chetabahana.com/) via [Google Site](http://shop.chetabahana.com/) untuk berkompetisi di [Google Search](https://www.google.com/search?q=chetabahana)
