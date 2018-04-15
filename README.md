@@ -49,7 +49,9 @@ Disarankan untuk disimak sebelum melangkah lebih jauh:
 - Syarat untuk bergabung silahkan [Daftar ID WinMarket](https://www.winmarket.id/?b=01647234)
 - Tim WinMarket welcome untuk bergabung.
 
-[**Tim Chetabahana**](https://github.com/chetabahana)  
+Met menyimak 
+SALAM Sukses! 
+[**Tim Chetabahana**](https://github.com/chetabahana)  et
 
 [![chetabahana.com](https://image.winmarket.id/img/winmarket/5247/12455247/2018/01/23/899b3898239dd4d5f0fdd19654e4f794a45bcb7f_0.33070500_1516680899~w200.png)](https://chetabahana.com/)  
 [WE ARE GOING TO WIN THE MARKET!](https://github.com/MarketLeader)
