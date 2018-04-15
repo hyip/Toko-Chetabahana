@@ -2,7 +2,7 @@
 Selamat datang di [**Toko Chetabahana**](https://github.com/MarketLeader/Toko-Chetabahana).
 
 Yang Anda baca ini adalah sesi terakhir dari publikasi dari 
-[**Tim Chetabahana**](https://github.com/chetabahana) yang diperuntukkan bagi Anda yang sudah mengikuti sesi sebelumnya yaitu [Cara buka Toko dan Optimasi internal](https://chetabahana.blogspot.com/) dan [Optimasi eksternal / SEO](https://chetabahana.wordpress.com/) .
+[**Tim Chetabahana**](https://github.com/chetabahana) yang diperuntukkan bagi Anda yang sudah mengikuti sesi sebelumnya yaitu [Cara buka Toko dan Optimasi Internal](https://chetabahana.blogspot.com/) dan [Optimasi Eksternal / Shop SEO](https://chetabahana.wordpress.com/) .
 
 Di sesi ini kami akan mempublikasikan cara untuk meningkatkan penjualan dari [Toko Online Chetabahana](https://chetabahana.com/) dengan teknik memilah dan memampilkan produk unggulan secara dinamis di [Situs Toko Chetabahana](http://toko.chetabahana.com/) dari [Google Site](http://sites.google.com/).
 
@@ -39,7 +39,7 @@ Penempatan Repositori (Repo) untuk setiap proses diatur sbb:
 ## Pustaka
 Disarankan untuk disimak sebelum melangkah lebih jauh:
 - [Cara buka Toko dan Optimasi internal](https://chetabahana.blogspot.com/)
-- [Optimasi eksternal / SEO](https://chetabahana.wordpress.com/)
+- [Optimasi Eksternal / Shop SEO](https://chetabahana.wordpress.com/)
 - [Channel Youtube](https://www.youtube.com/channel/UCZlPku9beXzdROCknYLuRNg?view_as=subscriber)
 - [e-Books](https://www.scribd.com/user/401259110/Chetabahana)
 
