@@ -30,3 +30,17 @@ Penempatan Repositori untuk setiap proses diatur sbb:
 - Proses ke-2: Content dan Dokumentasi
 - Proses ke-3: Content dan Dokumentasi
 - Proses ke-4: Content dan Dokumentasi
+
+## Pustaka
+Disarankan untuk disimak sebelum melangkah lebih jauh:
+- Cara buka Toko dan Optimasi internal
+- Optimasi eksternal / SEO
+- Channel Youtube
+- e-Books
+
+## Penutup
+- Projek ini diprioriostaskan untuk peminat e-Commerce di Indonesia
+- Syarat untuk bergabung silahkan ambil ID dari WinMarket
+- Tim WinMarket welcome untuk bergabung.
+
+Tim Chetabahana
