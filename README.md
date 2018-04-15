@@ -1,7 +1,7 @@
 # Toko Chetabahana
 Selamat datang di [**Toko Chetabahana**](https://github.com/MarketLeader/Toko-Chetabahana).
 
-Yang Anda baca ini adalah sesi terakhir dari publikasi dari 
+Yang Anda baca ini adalah sesi terakhir publikasi dari 
 [**Tim Chetabahana**](https://github.com/chetabahana) yang diperuntukkan bagi Anda yang sudah mengikuti sesi sebelumnya yaitu [Cara Buka Toko Online WinMarket dan Optimasi Internal](https://chetabahana.blogspot.com/) dan [Optimasi Eksternal dan Shop SEO](https://chetabahana.wordpress.com/) .
 
 Di sesi ini kami akan mempublikasikan cara untuk meningkatkan penjualan dari [Toko Online Chetabahana](https://chetabahana.com/) dengan teknik memilah dan memampilkan produk unggulan secara dinamis di [Situs Toko Chetabahana](http://toko.chetabahana.com/) dari [Google Site](http://sites.google.com/).
