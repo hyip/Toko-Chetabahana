@@ -12,7 +12,7 @@ Pilosopi sederhananya bisa dijabarkan sesuai urutan berikut ini:
 ## Manfaat
 Manfaat yang bisa diperoleh adalah sbb:
 - Menampilkan produk unggulan secara dinamis sesuai trend dan [Rekomendasi Google](https://support.google.com/adwords/answer/3448398) di Google Site .
-- Tidak memerlukan database karena bisa akses dan pakai data yg sudah dimasukkan di Google Merchant
+- Tidak memerlukan database karena bisa [_akses dan pakai data+](https://developers.google.com/shopping-content/v2/making-requests) yg sudah dimasukkan di Google Merchant
 - Tidak perlukan hosting berbayar karena [Google Site](http://sites.google.com/) adalah Free dan [AppEngine](https://cloud.google.com/appengine/) bisa [dijalankan secara gratis](https://stackoverflow.com/questions/18101642/appengine-limit-the-number-of-instances/26654430#26654430).
 - Bisa optimasi SEO untuk produk unggulan dari [Situs Toko](https://chetabahana.com/) via [Google Site](http://shop.chetabahana.com/) untuk berkompetisi di [Google Search](https://www.google.com/search?q=chetabahana)
 - Meraih data terkini untuk [update setelan AdWords secara otomatis](https://developers.google.com/adwords/api/docs/guides/start) guna peroleh sales return yang paling optimal.
