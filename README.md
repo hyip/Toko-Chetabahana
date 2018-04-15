@@ -33,14 +33,16 @@ Penempatan Repositori untuk setiap proses diatur sbb:
 
 ## Pustaka
 Disarankan untuk disimak sebelum melangkah lebih jauh:
-- Cara buka Toko dan Optimasi internal
-- Optimasi eksternal / SEO
-- Channel Youtube
-- e-Books
+- [Cara buka Toko dan Optimasi internal](https://chetabahana.blogspot.com/)
+- [Optimasi eksternal / SEO](https://chetabahana.wordpress.com/)
+- [Channel Youtube](https://www.youtube.com/channel/UCZlPku9beXzdROCknYLuRNg?view_as=subscriber)
+- [e-Books](https://www.scribd.com/user/401259110/Chetabahana)
 
 ## Penutup
 - Projek ini diprioriostaskan untuk peminat e-Commerce di Indonesia
+- Projek masih dalam pengembangan dan pengetesan implementasi
 - Syarat untuk bergabung silahkan ambil ID dari WinMarket
 - Tim WinMarket welcome untuk bergabung.
 
-Tim Chetabahana
+**Tim Chetabahana**
+![chetabahana.com](https://image.winmarket.id/img/winmarket/5247/12455247/2018/01/23/899b3898239dd4d5f0fdd19654e4f794a45bcb7f_0.33070500_1516680899~w200.png)
