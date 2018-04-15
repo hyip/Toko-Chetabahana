@@ -39,7 +39,7 @@ Disarankan untuk disimak sebelum melangkah lebih jauh:
 - [e-Books](https://www.scribd.com/user/401259110/Chetabahana)
 
 ## Penutup
-- Projek ini diprioriostaskan untuk peminat e-Commerce di Indonesia
+- Projek ini diprioriostaskan untuk peminat [e-Commerce di Indonesia](https://www.youtube.com/watch?v=dd__L8Jh2c4&t=25s)
 - Projek masih dalam pengembangan dan pengetesan implementasi
 - Syarat untuk bergabung silahkan [Daftar ID WinMarket](https://www.winmarket.id/?b=01647234)
 - Tim WinMarket welcome untuk bergabung.
