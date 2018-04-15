@@ -20,5 +20,6 @@ Manfaat yang bisa diperoleh adalah sbb:
 ## Struktur
 Struktur dari prosesnya bisa dijalankan secara terpisah sbb:
 - Proses ke-1: Mulai dari akses ke saran produk, menyaring barang sampai input menjadi daftar produk.
-- Proses ke-2: Mulai dari akses ke daftar produk, menyaring barang sampai input untuk menampilkan produk.
-
+- Proses ke-2: Mulai dari akses ke daftar produk, menyaring barang sampai input untuk tampilkan produk.
+- Proses ke-3: Analisa dari proses ke-1 dan ke-2, menyaring data sampai input ke setelan iklan.
+- Proses ke-4: Mengatur penjadwalan dan lalu-lintas data dari semua proses.
