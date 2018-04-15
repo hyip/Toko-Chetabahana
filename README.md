@@ -23,3 +23,10 @@ Struktur dari prosesnya bisa dijalankan secara terpisah sbb:
 - Proses ke-2: Mulai dari akses ke daftar produk, menyaring barang sampai input untuk tampilkan produk.
 - Proses ke-3: Menyaring data dari proses ke-1 dan ke-2, analisa data sampai input ke setelan iklan.
 - Proses ke-4: Mengatur penjadwalan dan lalu-lintas data dari semua proses.
+
+## Repositori
+Penempatan Repositori untuk setiap proses diatur sbb:
+- Proses ke-1: Content dan Dokumentasi
+- Proses ke-2: Content dan Dokumentasi
+- Proses ke-3: Content dan Dokumentasi
+- Proses ke-4: Content dan Dokumentasi
