@@ -24,7 +24,7 @@ Manfaat yang bisa diperoleh adalah sbb:
 
 ## Struktur
 Struktur dari prosesnya dijalankan dengan asas terbalik sbb:
-- Proses ke-1: Mulai dari akses ke daftar produk, menyaring data sampai sunting untuk tampilkan produk.
+- [Proses ke-1](https://github.com/MarketLeader/Google-Sites-API#google-sites-api): Mulai dari akses ke daftar produk, menyaring data sampai sunting untuk tampilkan produk.
 - Proses ke-2: Mulai dari akses ke saran produk, memilah barang sampai input menjadi database produk.
 - Proses ke-3: Menyaring data dari proses ke-1 dan -2, analisa penjualan sampai perbaikan setelan iklan.
 - Proses ke-4: Mengatur setelan, penjadwalan, lalu-lintas data, dan monitoring hasil dari semua proses.
