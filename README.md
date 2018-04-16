@@ -51,7 +51,7 @@ Berikut ini beberapa catatan sebagai penutup:  
 - Tim WinMarket welcome untuk bergabung.
 
 Terimakasih atas kunjungannya.  
-Met menyimak:pray:  
+Met menyimak.. :pray:  
 
 SALAM Sukses!  
 [**Tim Chetabahana**](https://github.com/chetabahana)  
