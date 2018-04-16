@@ -1,5 +1,5 @@
 # Toko Chetabahana
-:hand: Selamat datang di Project: [**Toko Chetabahana**](https://github.com/MarketLeader/Toko-Chetabahana).
+:hand: Selamat datang di [Halaman Project](https://github.com/MarketLeader/Toko-Chetabahana) untuk sesi [**Toko Chetabahana**](https://github.com/MarketLeader/Toko-Chetabahana).
 
 Yang Anda baca ini adalah sesi terakhir publikasi dari 
 [**Tim Chetabahana**](https://github.com/chetabahana) diperuntukkan bagi yang sudah ikuti sesi sebelumnya yaitu: [_Cara Buka Toko Online WinMarket dan Optimasi Internal_](https://chetabahana.blogspot.com/) serta [_Cara Optimasi Eksternal Toko dengan Shop SEO_](https://chetabahana.wordpress.com/) .
