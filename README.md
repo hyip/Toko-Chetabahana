@@ -24,15 +24,15 @@ Manfaat yang bisa diperoleh adalah sbb:
 
 ## Struktur
 Struktur dari prosesnya bisa dijalankan secara terpisah sbb:
-- Proses ke-1: Mulai dari akses ke saran produk, menyaring barang sampai input menjadi daftar produk.
-- Proses ke-2: Mulai dari akses ke daftar produk, memilah barang sampai input untuk tampilkan produk.
+- Proses ke-1: Mulai dari akses ke daftar produk, memilah data sampai input untuk tampilkan produk.
+- Proses ke-2: Mulai dari akses ke saran produk, menyaring barang sampai input menjadi daftar produk.
 - Proses ke-3: Menyaring data dari proses ke-1 dan -2, analisa produk sampai input ke setelan iklan.
 - Proses ke-4: Mengatur setelan, penjadwalan, lalu-lintas data, dan monitoring dari semua proses.
 
 ## Repositori
 Penempatan Repositori (Repo) untuk setiap proses diatur sbb:
-- Repo Proses ke-1: [MarketLeader/Google-Shop-API](https://github.com/MarketLeader/Google-Shop-API). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Shop-API/wiki)
 - Repo Proses ke-2: [MarketLeader/Google-Sites-API](https://github.com/MarketLeader/Google-Sites-API). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)
+- Repo Proses ke-1: [MarketLeader/Google-Content-API](https://github.com/MarketLeader/Google-Content-API). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Content-API/wiki)
 - Repo Proses ke-3: [MarketLeader/Google-AdWords-API](https://github.com/MarketLeader/Google-AdWords-API). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-AdWords-API/wiki)
 - Repo Proses ke-4: [MarketLeader/Toko-Chetabahana](https://github.com/MarketLeader/Toko-Chetabahana) (disini). Dokumentasinya [_disini_](https://github.com/MarketLeader/Toko-Chetabahana/wiki)
 
