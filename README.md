@@ -24,8 +24,8 @@ Manfaat yang bisa diperoleh adalah sbb:
 
 ## Struktur
 Struktur dari prosesnya dijalankan dengan asas terbalik sbb:
-- Proses ke-1: Mulai dari akses ke daftar produk, memilah data sampai input untuk tampilkan produk.
-- Proses ke-2: Mulai dari akses ke saran produk, menyaring barang sampai input menjadi daftar produk.
+- Proses ke-1: Mulai dari akses ke daftar produk, menyaring data dan suntingan untuk tampilkan produk.
+- Proses ke-2: Mulai dari akses ke saran produk, memilah barang sampai input menjadi database produk.
 - Proses ke-3: Menyaring data dari proses ke-1 dan -2, analisa produk sampai input ke setelan iklan.
 - Proses ke-4: Mengatur setelan, penjadwalan, lalu-lintas data, dan monitoring dari semua proses.
 
