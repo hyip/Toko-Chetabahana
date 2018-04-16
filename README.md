@@ -50,8 +50,9 @@ Berikut ini beberapa catatan sebagai penutup:  
 - Syarat untuk bergabung silahkan [Daftar ID WinMarket](https://www.winmarket.id/?b=01647234)
 - Tim WinMarket welcome untuk bergabung.
 
-Met menyimak  
-SALAM Sukses!:pray:  
+Met menyimak:pray:  
+
+SALAM Sukses!  
 [**Tim Chetabahana**](https://github.com/chetabahana)  
 
 [![chetabahana.com](https://image.winmarket.id/img/winmarket/5247/12455247/2018/01/23/899b3898239dd4d5f0fdd19654e4f794a45bcb7f_0.33070500_1516680899~w200.png)](https://chetabahana.com/)  
