@@ -45,7 +45,7 @@ Disarankan untuk disimak sebelum melangkah lebih jauh:
 
 ## Penutup
 Berikut ini beberapa catatan sebagai penutup:  
-- Projek ini diprioriostaskan untuk peminat [e-Commerce di Indonesia](https://www.youtube.com/watch?v=dd__L8Jh2c4&t=25s)
+- Projek ini diprioriostaskan untuk peminat [e-Commerce di Indonesia](https://www.youtube.com/watch?v=dd__L8Jh2c4&t=25s) :id:
 - Status masih pengembangan dan pengetesan implementasi
 - Syarat untuk bergabung silahkan [Daftar ID WinMarket](https://www.winmarket.id/?b=01647234)
 - Tim WinMarket welcome untuk bergabung.
