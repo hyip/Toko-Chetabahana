@@ -41,7 +41,7 @@ Disarankan untuk disimak sebelum melangkah lebih jauh:
 - [Cara Buka Toko Online WinMarket dan Optimasi Internal](https://chetabahana.blogspot.com/)
 - [Cara Optimasi Eksternal Toko dengan Shop SEO](https://chetabahana.wordpress.com/)
 - [Channel Youtube Chetabahana](https://www.youtube.com/channel/UCZlPku9beXzdROCknYLuRNg?view_as=subscriber)
-- [e-Books](https://www.scribd.com/user/401259110/Chetabahana)
+- [e-Books Chetabahana](https://www.scribd.com/user/401259110/Chetabahana)
 
 ## Penutup
 Berikut ini beberapa catatan sebagai penutup:  
