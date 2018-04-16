@@ -50,6 +50,7 @@ Berikut ini beberapa catatan sebagai penutup:  
 - Syarat untuk bergabung silahkan [Daftar ID WinMarket](https://www.winmarket.id/?b=01647234)
 - Tim WinMarket welcome untuk bergabung.
 
+Terimakasih atas kunjungannya.  
 Met menyimak:pray:  
 
 SALAM Sukses!  
