@@ -25,9 +25,9 @@ Manfaat yang bisa diperoleh adalah sbb:
 ## Struktur
 Struktur dari prosesnya bisa dijalankan secara terpisah sbb:
 - Proses ke-1: Mulai dari akses ke saran produk, menyaring barang sampai input menjadi daftar produk.
-- Proses ke-2: Mulai dari akses ke daftar produk, menyaring barang sampai input untuk tampilkan produk.
-- Proses ke-3: Menyaring data dari proses ke-1 dan ke-2, analisa produk sampai input ke setelan iklan.
-- Proses ke-4: Mengatur penjadwalan, lalu-lintas data, dan monitoring dari semua proses.
+- Proses ke-2: Mulai dari akses ke daftar produk, memilah barang sampai input untuk tampilkan produk.
+- Proses ke-3: Menyaring data dari proses ke-1 dan -2, analisa produk sampai input ke setelan iklan.
+- Proses ke-4: Mengatur setelan, penjadwalan, lalu-lintas data, dan monitoring dari semua proses.
 
 ## Repositori
 Penempatan Repositori (Repo) untuk setiap proses diatur sbb:
