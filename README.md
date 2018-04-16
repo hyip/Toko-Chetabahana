@@ -4,7 +4,7 @@
 Sesi ini adalah sesi penutup publikasi dari 
 [**Tim Chetabahana**](https://github.com/chetabahana) diperuntukkan bagi yang sudah ikuti sesi sebelumnya yaitu: [_Cara Buka Toko Online WinMarket dan Optimasi Internal_](https://chetabahana.blogspot.com/) serta [_Cara Optimasi Eksternal Toko dengan Shop SEO_](https://chetabahana.wordpress.com/) .
 
-Di sesi ini kami akan mempublikasikan cara untuk meningkatkan penjualan dari [Toko Online Chetabahana](https://chetabahana.com/) dengan teknik memilah dan memampilkan produk unggulan secara dinamis di [_Situs Google Toko Chetabahana_](http://toko.chetabahana.com/) dari [Google Site](http://sites.google.com/).
+Di sesi ini kami akan publikasikan cara untuk meningkatkan penjualan dari [Toko Online Chetabahana](https://chetabahana.com/) dengan teknik memilah dan memampilkan produk unggulan secara dinamis di [_Situs Google Toko Chetabahana_](http://toko.chetabahana.com/) dari [Google Site](http://sites.google.com/).
 
 ## Pilosopi
 Pilosopi sederhananya bisa dijabarkan sesuai urutan berikut ini:
