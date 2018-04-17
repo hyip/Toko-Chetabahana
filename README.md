@@ -54,15 +54,15 @@ Disarankan untuk disimak sebelum melangkah lebih jauh:
 - [Channel Youtube Chetabahana](https://www.youtube.com/channel/UCZlPku9beXzdROCknYLuRNg?view_as=subscriber)
 - [e-Books Chetabahana](https://www.scribd.com/user/401259110/Chetabahana)
 
+## License
+Apache License 2.0
+
 ## Penutup
 Berikut ini beberapa catatan sebagai penutup:  
 - Projek ini diprioriostaskan untuk peminat [e-Commerce di Indonesia](https://www.youtube.com/watch?v=dd__L8Jh2c4&t=25s) 🇮🇩
 - Status masih pengembangan dan pengetesan implementasi
 - Syarat untuk bergabung silahkan [Daftar ID WinMarket](https://www.winmarket.id/?b=01647234)
 - Tim WinMarket welcome untuk bergabung.
-
-## Lsence
-Apache License 2.0
 
 Terimakasih atas kunjungannya.  
 Met menyimak.. :pray:  
