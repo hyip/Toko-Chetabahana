@@ -54,6 +54,9 @@ Disarankan untuk disimak sebelum melangkah lebih jauh:
 - [Channel Youtube Chetabahana](https://www.youtube.com/channel/UCZlPku9beXzdROCknYLuRNg?view_as=subscriber)
 - [e-Books Chetabahana](https://www.scribd.com/user/401259110/Chetabahana)
 
+## Lsence
+Apache License 2.0
+
 ## Penutup
 Berikut ini beberapa catatan sebagai penutup:  
 - Projek ini diprioriostaskan untuk peminat [e-Commerce di Indonesia](https://www.youtube.com/watch?v=dd__L8Jh2c4&t=25s) 🇮🇩
