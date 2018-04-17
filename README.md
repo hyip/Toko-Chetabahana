@@ -23,20 +23,14 @@ Manfaat yang bisa diperoleh adalah sbb:
 - Meraih data terkini untuk [_Update Setelan AdWords Secara Otomatis_](https://developers.google.com/adwords/api/docs/guides/start) guna peroleh sales return yang paling optimal.
 
 ## Proses
-Struktur dari prosesnya dijalankan dengan [_asas terbalik_](https://en.wikipedia.org/wiki/Algorithm) sbb:
+ Alur dari prosesnya dijalankan dengan [_asas terbalik_](https://en.wikipedia.org/wiki/Algorithm) sbb:
 - [Proses ke-1](https://github.com/MarketLeader/Google-Sites-API#google-sites-api): Mulai dari akses ke daftar produk, menyaring data sampai sunting untuk tampilkan produk.
 - Proses ke-2: Mulai dari akses ke saran produk, memilah barang sampai input menjadi database produk.
 - Proses ke-3: Menyaring data dari proses ke-1 dan -2, analisa penjualan sampai perbaikan setelan iklan.
 - Proses ke-4: Mengatur setelan, penjadwalan, lalu-lintas data, dan monitoring hasil dari semua proses.
 
-## Repositori
-Penempatan Repositori ([_Repo_](https://help.github.com/articles/create-a-repo/)) untuk setiap proses diatur sbb:
-- Repo Proses ke-1: [MarketLeader/Google-Sites-API](https://github.com/MarketLeader/Google-Sites-API). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)
-- Repo Proses ke-2: [MarketLeader/Google-Content-API](https://github.com/MarketLeader/Google-Content-API). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Content-API/wiki)
-- Repo Proses ke-3: [MarketLeader/Google-AdWords-API](https://github.com/MarketLeader/Google-AdWords-API). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-AdWords-API/wiki)
-- Repo Proses ke-4: [MarketLeader/Toko-Chetabahana](https://github.com/MarketLeader/Toko-Chetabahana) (ini). Dokumentasinya [_disini_](https://github.com/MarketLeader/Toko-Chetabahana/wiki)
-
 ## Struktur
+Struktur dari alur:
 ```
 Top_dir
 |-----README.md
@@ -46,7 +40,12 @@ Top_dir
       |----Dir B
            |----README.md
 ```
-
+## Repositori
+Penempatan Repositori ([_Repo_](https://help.github.com/articles/create-a-repo/)) untuk setiap proses diatur sbb:
+- Repo Proses ke-1: [MarketLeader/Google-Sites-API](https://github.com/MarketLeader/Google-Sites-API). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)
+- Repo Proses ke-2: [MarketLeader/Google-Content-API](https://github.com/MarketLeader/Google-Content-API). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Content-API/wiki)
+- Repo Proses ke-3: [MarketLeader/Google-AdWords-API](https://github.com/MarketLeader/Google-AdWords-API). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-AdWords-API/wiki)
+- Repo Proses ke-4: [MarketLeader/Toko-Chetabahana](https://github.com/MarketLeader/Toko-Chetabahana) (ini). Dokumentasinya [_disini_](https://github.com/MarketLeader/Toko-Chetabahana/wiki)
 
 ## Pustaka
 Disarankan untuk disimak sebelum melangkah lebih jauh:
