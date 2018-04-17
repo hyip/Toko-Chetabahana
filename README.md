@@ -30,7 +30,7 @@ Struktur dari prosesnya dijalankan dengan [_asas terbalik_](https://en.wikipedia
 - Proses ke-4: Mengatur setelan, penjadwalan, lalu-lintas data, dan monitoring hasil dari semua proses.
 
 ## Repositori
-Penempatan Repositori (Repo) untuk setiap proses diatur sbb:
+Penempatan Repositori ([_Repo_](https://help.github.com/articles/create-a-repo/)) untuk setiap proses diatur sbb:
 - Repo Proses ke-1: [MarketLeader/Google-Sites-API](https://github.com/MarketLeader/Google-Sites-API). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)
 - Repo Proses ke-2: [MarketLeader/Google-Content-API](https://github.com/MarketLeader/Google-Content-API). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Content-API/wiki)
 - Repo Proses ke-3: [MarketLeader/Google-AdWords-API](https://github.com/MarketLeader/Google-AdWords-API). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-AdWords-API/wiki)
