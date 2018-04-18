@@ -30,7 +30,7 @@ Manfaat yang bisa diperoleh adalah sbb:
 - Proses ke-4: Mengatur setelan, penjadwalan, lalu-lintas data, dan monitoring hasil dari semua proses.
 
 ## Struktur
-Struktur dari alur dijalankan dengan [_asas terbalik_](https://en.wikipedia.org/wiki/Algorithm):
+Struktur dari alur dijalankan dengan [_asas terbalik_](https://en.wikipedia.org/wiki/Algorithm) sbb:
 ```
 Proses ke-4: Top_dir
 |-----README.md
