@@ -20,7 +20,9 @@ Manfaat yang bisa diperoleh adalah sbb:
 - Tidak memerlukan database karena bisa [_akses dan pakai data_](https://developers.google.com/shopping-content/v2/making-requests) yg sudah dimasukkan di Google Merchant
 - Tidak perlukan hosting berbayar karena [Google Site](http://sites.google.com/) adalah Free dan [AppEngine](https://cloud.google.com/appengine/) bisa [_dijalankan secara gratis_](https://stackoverflow.com/questions/18101642/appengine-limit-the-number-of-instances/26654430#26654430).
 - Bisa [_jalankan SEO_](https://developers.google.com/search/) untuk produk unggulan dari [Situs Toko](https://chetabahana.com/) via [Google Site](http://toko.chetabahana.com/) untuk berkompetisi di [Google Search](https://www.google.com/search?q=chetabahana)
-- Meraih data terkini untuk [_Update Setelan AdWords Secara Otomatis_](https://developers.google.com/adwords/api/docs/guides/start) guna peroleh sales return yang paling optimal.<p align="center">Gambar-1: Contoh tampilan Chetabahana di Iklan Shopping dari Google AdWords:point_down:</p>[![Contoh tampilan Chetabahana di Iklan Shopping dari Google AdWords](https://user-images.githubusercontent.com/36441664/38913079-10a00cea-4303-11e8-8138-4694115c4cf3.png)](https://chetabahana.com/product?l=60&o=harga&group=393)
+- Meraih data terkini untuk [_Update Setelan AdWords Secara Otomatis_](https://developers.google.com/adwords/api/docs/guides/start) guna peroleh sales return yang paling optimal.  
+
+[![Contoh tampilan Chetabahana di Iklan Shopping dari Google AdWords](https://user-images.githubusercontent.com/36441664/38913079-10a00cea-4303-11e8-8138-4694115c4cf3.png)](https://chetabahana.com/product?l=60&o=harga&group=393)<p align="center">Gambar-1: Contoh tampilan Chetabahana di Iklan Shopping dari Google AdWords:point_down:</p>
 
 ## Proses
  Alur dari prosesnya sbb:
