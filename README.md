@@ -12,7 +12,10 @@ Pilosopi sederhananya bisa dijabarkan sesuai urutan berikut ini:
 - Kemudian kita saring [produk dropship](https://chetabahana.com/product?p=1&c=0&l=60) dari [_daftar barang toko_](https://chetabahana.com/sitemap.xml) yang memenuhi kriteria via [Google AppEngine](https://cloud.google.com/appengine/).  
 - Hasilnya kita masukkan ke [Google Merchant](https://www.google.com/retail/solutions/merchant-center/) sehingga [_tersimpan menjadi database_](https://support.google.com/merchants/answer/7052112) via [Google Content API](https://developers.google.com/shopping-content/v2/quickstart).  
 - Dari database ini kita ambil produk yang mempunyai hasil dan [_peluang terbaik_](https://support.google.com/merchants/answer/7228489?hl=id) via [Google AdWords API](https://developers.google.com/adwords/api/docs/guides/start).  
-- Selanjutnya kita tampilkan produknya di [_Situs Google Toko Chetabahana_](http://toko.chetabahana.com/) via [Google Sites API](https://developers.google.com/google-apps/sites/docs/developers_guide).
+- Selanjutnya kita tampilkan produknya di [_Situs Google Toko Chetabahana_](http://toko.chetabahana.com/) via [Google Sites API](https://developers.google.com/google-apps/sites/docs/developers_guide).  
+<p align="justify">
+  Lorem ipsum
+</p>
 
 ## Manfaat
 Manfaat yang bisa diperoleh adalah sbb:
