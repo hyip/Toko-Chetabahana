@@ -25,7 +25,9 @@ Manfaat yang bisa diperoleh adalah sbb:
 ||
 |:--:|
 | I'm centered! |
+
 <center>Centered text</center>
+
 ## Proses
  Alur dari prosesnya sbb:
 - [Proses ke-1](https://github.com/MarketLeader/Google-Sites-API#google-sites-api): Mulai dari akses ke daftar produk, menyaring data sampai sunting untuk tampilkan produk.
