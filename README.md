@@ -26,7 +26,7 @@ Manfaat yang bisa diperoleh adalah sbb:
 |:--:|
 | I'm centered! |
 
-<center>Centered text</center>
+<p align="center">Centered text</p>
 
 ## Proses
  Alur dari prosesnya sbb:
