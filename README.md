@@ -22,7 +22,7 @@ Manfaat yang bisa diperoleh adalah sbb:
 - Bisa [_jalankan SEO_](https://developers.google.com/search/) untuk produk unggulan dari [Situs Toko](https://chetabahana.com/) via [Google Site](http://toko.chetabahana.com/) untuk berkompetisi di [Google Search](https://www.google.com/search?q=chetabahana)
 - Meraih data terkini untuk [_Update Setelan AdWords Secara Otomatis_](https://developers.google.com/adwords/api/docs/guides/start) guna peroleh sales return yang paling optimal.  
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/36441664/38913079-10a00cea-4303-11e8-8138-4694115c4cf3.png">Gambar-1: Contoh tampilan [Chetabahana](https://chetabahana.com/) di Iklan Shopping dari Google AdWords
+<img src="https://user-images.githubusercontent.com/36441664/38913079-10a00cea-4303-11e8-8138-4694115c4cf3.png">Gambar-1: Contoh tampilan []<a href=https://chetabahana.com>Chetabahana</a> di Iklan Shopping dari Google AdWords
 </p>
 
 
