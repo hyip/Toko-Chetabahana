@@ -23,21 +23,21 @@ Manfaat yang bisa diperoleh adalah sbb:
 - Meraih data terkini untuk [_Update Setelan AdWords Secara Otomatis_](https://developers.google.com/adwords/api/docs/guides/start) guna peroleh sales return yang paling optimal.
 
 ## Proses
- Alur dari prosesnya dijalankan dengan [_asas terbalik_](https://en.wikipedia.org/wiki/Algorithm) sbb:
+ Alur dari prosesnya sbb:
 - [Proses ke-1](https://github.com/MarketLeader/Google-Sites-API#google-sites-api): Mulai dari akses ke daftar produk, menyaring data sampai sunting untuk tampilkan produk.
 - Proses ke-2: Mulai dari akses ke saran produk, memilah barang sampai input menjadi database produk.
 - Proses ke-3: Menyaring data dari proses ke-1 dan -2, analisa penjualan sampai perbaikan setelan iklan.
 - Proses ke-4: Mengatur setelan, penjadwalan, lalu-lintas data, dan monitoring hasil dari semua proses.
 
 ## Struktur
-Struktur dari alur:
+Struktur dari alur dijalankan dengan [_asas terbalik_](https://en.wikipedia.org/wiki/Algorithm):
 ```
-Top_dir
+Proses ke-4: Top_dir
 |-----README.md
-|-----Cur_dir1
-      |----Dir A
+|-----Proses ke-3: Google-AdWords-API
+      |----Proses ke-2: Google-Content-API
            |----README.md
-      |----Dir B
+      |----Proses ke-1: Google-Sites-API
            |----README.md
 ```
 ## Repositori
