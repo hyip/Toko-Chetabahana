@@ -53,12 +53,15 @@ Repositori ([_Repo_](https://help.github.com/articles/create-a-repo/)) untuk set
 - Repo Proses ke-4: [MarketLeader/Toko-Chetabahana](https://github.com/MarketLeader/Toko-Chetabahana) (ini). Dokumentasinya [_disini_](https://github.com/MarketLeader/Toko-Chetabahana/wiki)
 
 ## Pustaka
+<p align="center"> 
+<a href="https://chetabahana.com/"><img src="https://user-images.githubusercontent.com/36441664/38942532-44c87736-4359-11e8-9ad4-56f7d2b68ced.png" alt="Alokasi Pustaka Online Chetabahana"></a>Gambar-2: Alokasi Pustaka Online <a href=https://chetabahana.com>Chetabahana</a>
+</p>
 Disarankan untuk disimak sebelum melangkah lebih jauh:
 - [Cara Buka Toko Online WinMarket dan Optimasi Internal](https://chetabahana.blogspot.com/)
 - [Cara Optimasi Eksternal Toko dengan Shop SEO](https://chetabahana.wordpress.com/)
 - [Channel Youtube Chetabahana](https://www.youtube.com/channel/UCZlPku9beXzdROCknYLuRNg?view_as=subscriber)
 - [e-Books Chetabahana](https://www.scribd.com/user/401259110/Chetabahana)
-![Alokasi Pustaka Online Chetabahana](https://user-images.githubusercontent.com/36441664/38942532-44c87736-4359-11e8-9ad4-56f7d2b68ced.png)
+
 ## License
 Apache License 2.0
 
