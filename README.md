@@ -22,9 +22,9 @@ Manfaat yang bisa diperoleh adalah sbb:
 - Bisa [_jalankan SEO_](https://developers.google.com/search/) untuk produk unggulan dari [Situs Toko](https://chetabahana.com/) via [Google Site](http://toko.chetabahana.com/) untuk berkompetisi di [Google Search](https://www.google.com/search?q=chetabahana)
 - Meraih data terkini untuk [_Update Setelan AdWords Secara Otomatis_](https://developers.google.com/adwords/api/docs/guides/start) guna peroleh sales return yang paling optimal.
 [![Chetabahana on  Google Shopping](https://user-images.githubusercontent.com/36441664/38913079-10a00cea-4303-11e8-8138-4694115c4cf3.png)](https://chetabahana.com/product?l=60&o=harga&group=393)  
-|| <!-- empty table header -->
-|:--:| <!-- table header/body separator with center formatting -->
-| I'm centered! | <!-- cell gets column's alignment -->
+||
+|:--:|
+| I'm centered! |
 
 ## Proses
  Alur dari prosesnya sbb:
