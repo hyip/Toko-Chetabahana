@@ -27,7 +27,7 @@ Manfaat yang bisa diperoleh adalah sbb:
 
 
 ## Proses
- Alur dari prosesnya sbb:
+ Alur dari prosesnya diatur sbb:
 - [Proses ke-1](https://github.com/MarketLeader/Google-Sites-API#google-sites-api): Mulai dari akses ke daftar produk, menyaring data sampai sunting untuk tampilkan produk.
 - Proses ke-2: Mulai dari akses ke saran produk, memilah barang sampai input menjadi database produk.
 - Proses ke-3: Menyaring data dari proses ke-1 dan -2, analisa penjualan sampai perbaikan setelan iklan.
@@ -46,7 +46,7 @@ Proses ke-4: Top_dir
            |----README.md
 ```
 ## Repositori
-Penempatan Repositori ([_Repo_](https://help.github.com/articles/create-a-repo/)) untuk setiap proses diatur sbb:
+Repositori ([_Repo_](https://help.github.com/articles/create-a-repo/)) untuk setiap proses dialokasikan sbb:
 - Repo Proses ke-1: [MarketLeader/Google-Sites-API](https://github.com/MarketLeader/Google-Sites-API). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Sites-API/wiki)
 - Repo Proses ke-2: [MarketLeader/Google-Content-API](https://github.com/MarketLeader/Google-Content-API). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-Content-API/wiki)
 - Repo Proses ke-3: [MarketLeader/Google-AdWords-API](https://github.com/MarketLeader/Google-AdWords-API). Dokumentasinya [_disini_](https://github.com/MarketLeader/Google-AdWords-API/wiki)
