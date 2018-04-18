@@ -58,7 +58,7 @@ Disarankan untuk disimak sebelum melangkah lebih jauh:
 - [Cara Optimasi Eksternal Toko dengan Shop SEO](https://chetabahana.wordpress.com/)
 - [Channel Youtube Chetabahana](https://www.youtube.com/channel/UCZlPku9beXzdROCknYLuRNg?view_as=subscriber)
 - [e-Books Chetabahana](https://www.scribd.com/user/401259110/Chetabahana)
-
+![Alokasi Pustaka Online Chetabahana](https://user-images.githubusercontent.com/36441664/38942532-44c87736-4359-11e8-9ad4-56f7d2b68ced.png)
 ## License
 Apache License 2.0
 
