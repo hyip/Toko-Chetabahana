@@ -76,3 +76,4 @@ SALAM Sukses!
 :copyright: [**Tim Chetabahana**](https://github.com/chetabahana)  
 [![profile for Chetabahana on Stack Exchange, a network of free, community-driven Q&amp;A sites](https://stackexchange.com/users/flair/5054985.png)](https://stackoverflow.com/users/4058484/chetabahana?tab=profile)   
 [*WE ARE GOING TO WIN THE MARKET!*](https://github.com/MarketLeader/Toko-Chetabahana)
+<p align="center" style="margin-top: 1em"> <font size="6" face="sans-serif"> Example Heading </font> </p>
